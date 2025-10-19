@@ -1,1 +1,2 @@
 Mục tiêu: luyện tập commit, push, pull
+- Đã học cách commit 2 lần
