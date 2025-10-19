@@ -1,3 +1,4 @@
 Mục tiêu: luyện tập commit, push, pull
 - Đã học cách commit 2 lần
 - Đã tạo khác biệt để làm PR
+Cập nhật ghi chú cho phiên bản 1.1
