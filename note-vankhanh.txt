@@ -1,2 +1,3 @@
 Mục tiêu: luyện tập commit, push, pull
 - Đã học cách commit 2 lần
+- Đã tạo khác biệt để làm PR
